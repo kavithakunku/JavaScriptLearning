@@ -1,0 +1,7 @@
+DOM - Document Object Model
+* aka how to use javascript to modify website
+Difference between Array and List?
+Array- It is used to store data in linearly manner and holds different kinds of data types
+List - It stores data in linked List fashion
+Array is efficient in terms of data retrivel where it is easy to perform manupilation in list.
+Math.random() generates random number between 0 to 1(like 0.0000 to 0.9999)
