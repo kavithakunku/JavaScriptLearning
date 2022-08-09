@@ -70,6 +70,3 @@ function newCard(){
         messageEl.textContent = "You are not allowed to take another card!"
     }
 }
-function sample(){
-    console.log("test")
-}
