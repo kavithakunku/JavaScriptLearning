@@ -1,9 +1,15 @@
 let cards = []
 let sum = 0
+let player = {
+    name:"Kavitha",
+    chips: 200
+}
 let messageEl = document.getElementById("message-el")
 // let sumEl = document.getElementById("sum")
 let sumEl = document.querySelector("#sum")
 let cardsEl = document.getElementById("cards")
+let playerEl = document.getElementById("player-el")
+playerEl.textContent = player.name + ":$" + player.chips
 let isAlive = false
 let blackJack = false
 
