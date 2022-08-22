@@ -39,3 +39,6 @@ function Add(){
 function Division(){
     document.getElementById("sum").textContent = num1/num2
 }
+
+
+

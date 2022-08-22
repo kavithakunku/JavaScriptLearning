@@ -1,9 +1,11 @@
 let cards = []
 let sum = 0
+
 let player = {
     name:"Kavitha",
     chips: 200
 }
+
 let messageEl = document.getElementById("message-el")
 // let sumEl = document.getElementById("sum")
 let sumEl = document.querySelector("#sum")
