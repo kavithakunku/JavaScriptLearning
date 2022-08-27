@@ -38,8 +38,12 @@ function buttonLead(){
     console.log("Button Clicked")
 }
 
-let inputBtn = document.getElementById("input-btn")
-inputBtn.addEventListener("click",function(){
-    console.log("Event listener")
+// let inputBtn = document.getElementById("input-btn")
+// inputBtn.addEventListener("click",function(){
+//     console.log("Event listener")
 
-})
+// })
+// let elUl = document.getElementById("el-ul")
+// elUl.textContent = "www.web.com"
+
+
